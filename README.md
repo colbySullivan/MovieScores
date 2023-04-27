@@ -15,7 +15,8 @@ python counter.py 1
 python counter.py 2
 ```
 
-The currently implemented arguments are 1 and 2. 1 being a list of similar movies based on a title and 2 being a list of the top best or worst movies.
+The currently implemented arguments are 1 and 2. 
+An argument 1 being a list of similar movies based on a title and 2 being a list of the top best or worst movies.
 
 ## Author
 
